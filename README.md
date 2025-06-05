@@ -11,7 +11,6 @@ A Python script that evaluates the strength of a password based on security best
 - [How It Works](#how-it-works)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Sample Output](#sample-output)
 - [Security Considerations](#security-considerations)
 - [Improvement Ideas](#improvement-ideas)
 - [What I Learned](#what-i-learned)
