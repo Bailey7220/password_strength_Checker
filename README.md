@@ -56,6 +56,7 @@ If the password is strong, the script congratulates the user. If not, it provide
 2. Clone this repository or download the script file
 
 git clone https://github.com/Bailey7220/password_strength_Checker.git
+
 cd password_strength_checker
 
 ---
