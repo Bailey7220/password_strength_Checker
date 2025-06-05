@@ -100,8 +100,6 @@ When prompted, enter a password to check its strength.
 ## References
 
 - [Python re — Regular expression operations](https://docs.python.org/3/library/re.html)
-- [Building a Password Strength Checker in Python - DEV.to][2]
-- [Python program to check password strength - w3resource][5]
 
 ---
 
